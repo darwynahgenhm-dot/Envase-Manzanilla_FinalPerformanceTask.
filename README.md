@@ -1,5 +1,4 @@
-Final Performance Task
-<!DOCTYPE html>
+
 <html> 
 <head>
     <title>Our Product</title>
